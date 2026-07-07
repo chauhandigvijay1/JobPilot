@@ -36,8 +36,8 @@ JobPilot thrives on community engineering. Whether you are optimizing a MongoDB 
 
 ### 2. Repository Initialization
 ```bash
-git clone https://github.com/your-username/web-dev-journey.git
-cd web-dev-journey/JobPilot
+git clone https://github.com/your-username/JobPilot.git
+cd JobPilot
 
 # Initialize Monorepo Dependencies
 cd backend && npm install

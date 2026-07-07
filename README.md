@@ -20,7 +20,7 @@
   <a href="./docs/index.md" target="_blank">
     <img src="https://img.shields.io/badge/DOCUMENTATION-→_Read_the_Docs-2563eb?style=for-the-badge&logo=gitbook&logoColor=white" alt="Documentation" />
   </a>
-  <a href="https://github.com/chauhandigvijay1/web-dev-journey" target="_blank">
+  <a href="https://github.com/chauhandigvijay1/JobPilot" target="_blank">
     <img src="https://img.shields.io/badge/SOURCE-→_GitHub-18181b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://web-dev-journey-cnee.onrender.com/api/health" target="_blank">
@@ -302,8 +302,8 @@ sequenceDiagram
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/chauhandigvijay1/web-dev-journey.git
-cd web-dev-journey/JobPilot
+git clone https://github.com/chauhandigvijay1/JobPilot.git
+cd JobPilot
 ```
 
 ### 2. Backend Setup
@@ -517,7 +517,7 @@ JobPilot is open-source software licensed under the **[MIT License](./LICENSE)**
 
 ## 📞 Support
 
-If you encounter a replicable runtime error, please review the [Troubleshooting Guide](./docs/troubleshooting.md) or open an issue on our [GitHub Tracker](https://github.com/chauhandigvijay1/web-dev-journey/issues).
+If you encounter a replicable runtime error, please review the [Troubleshooting Guide](./docs/troubleshooting.md) or open an issue on our [GitHub Tracker](https://github.com/chauhandigvijay1/JobPilot/issues).
 
 <div align="center">
   <em>Thank you for exploring JobPilot. If you find this project valuable, please consider giving it a ⭐ on GitHub!</em>

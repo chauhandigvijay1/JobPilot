@@ -127,7 +127,7 @@ gantt
 ## 🤝 Contributing & Feature Requests
 
 Have a feature idea that accelerates career mobility? 
-1. Open a [GitHub issue](https://github.com/chauhandigvijay1/web-dev-journey/issues) applying the `feature-request` label.
+1. Open a [GitHub issue](https://github.com/chauhandigvijay1/JobPilot/issues) applying the `feature-request` label.
 2. We review and prioritize requests monthly based on **Impact**, **Implementation Complexity**, and **Vision Alignment**.
 3. Ready to code? Check the [Contributing Guide](./contributing-guide.md).
 

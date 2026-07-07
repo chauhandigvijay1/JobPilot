@@ -23,7 +23,7 @@ Before opening a support ticket, please consult the authoritative documentation 
 
 ### Bug Reports (Tier 1)
 If you encounter a replicable runtime error or UI break:
-1. Navigate to our [GitHub Issues Tracker](https://github.com/chauhandigvijay1/web-dev-journey/issues).
+1. Navigate to our [GitHub Issues Tracker](https://github.com/chauhandigvijay1/JobPilot/issues).
 2. Select the **Bug Report** template.
 3. Provide precise OS, Browser, and Extension Version details alongside reproducible steps.
 

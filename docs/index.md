@@ -129,7 +129,7 @@ Dive deep into the specific subsystems powering JobPilot.
 
 - **Live Application:** [jobpilot-client-chi.vercel.app](https://jobpilot-client-chi.vercel.app)
 - **API Edge Engine:** [web-dev-journey-cnee.onrender.com](https://web-dev-journey-cnee.onrender.com)
-- **GitHub Repository:** [chauhandigvijay1/web-dev-journey](https://github.com/chauhandigvijay1/web-dev-journey)
+- **GitHub Repository:** [chauhandigvijay1/JobPilot](https://github.com/chauhandigvijay1/JobPilot)
 - **Return to Root README:** [View Master File](../README.md)
 
 <br/>

@@ -40,9 +40,9 @@ This project enforces a strict, welcoming environment. By participating, you agr
 
 ### 2. Fork & Clone
 ```bash
-git clone https://github.com/<your-username>/web-dev-journey.git
-cd web-dev-journey/JobPilot
-git remote add upstream https://github.com/chauhandigvijay1/web-dev-journey.git
+git clone https://github.com/<your-username>/JobPilot.git
+cd JobPilot
+git remote add upstream https://github.com/chauhandigvijay1/JobPilot.git
 ```
 
 ### 3. Install Dependencies
